@@ -23,7 +23,7 @@ Contributions most welcome! Please check the [Contribution guideline](CONTRIBUTI
   * Study on the ability of RNNs to generalize in a compositional way on a data set for sequence-to-sequence modelling called SCAN, which requires models to create compositional solutions and generalize on new data based on related concepts.
 
 - A Santoro, F Hill, D Barrett, A Morcos, T Lillicrap. [Measuring abstract reasoning in neural networks](http://proceedings.mlr.press/v80/santoro18a/santoro18a.pdf) ICML, 2018. 
-    * A dataset for abstract reasoning inspired by human-like IQ tests. To succeed in the task the model must be able to generalize in various ‘regimes’ in which the training and test data differ in clearlydefined ways.
+    * A [dataset](https://github.com/deepmind/abstract-reasoning-matrices) for abstract reasoning inspired by human-like IQ tests. To succeed in the task the model must be able to generalize in various ‘regimes’ in which the training and test data differ in clearlydefined ways.
 
 ### Miscellaneous
 
