@@ -30,7 +30,8 @@ Contributions most welcome! Please check the [Contribution guideline](CONTRIBUTI
     * A *compositional split* of the [MS COCO dataset](http://cocodataset.org/). This alternative split for training and test data can be used to test whether image captioning models can generalise to new (unseen) compositions.
 
 ### Interpretability
-Singh, Chandan, et al. [Hierarchical Interpretations for Neural Network Predictions](https://arxiv.org/pdf/1806.05337.pdf) arXiv:1806.05337 (2018).
+
+- Singh, Chandan, et al. [Hierarchical Interpretations for Neural Network Predictions](https://arxiv.org/pdf/1806.05337.pdf) arXiv:1806.05337 (2018).
     * Provides a method for creating a hierarchical representation of the contributions to the classification of both RNNs and CNNs.
 
 ### Miscellaneous
