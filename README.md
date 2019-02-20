@@ -7,7 +7,7 @@ Contributions most welcome! Please check the [Contribution guideline](CONTRIBUTI
 ## Table of Contents
 * [Architectural Bias](#architectural-bias)
 * [Datasets](#datasets)
-* [interpretability](#interpretability)
+* [Interpretability](#interpretability)
 * [Miscellaneous](#miscellaneous)
   * [Psycholinguistics](#psycholinguistics)
   * [Cognitive Sciences](#cognitive-sciences)
